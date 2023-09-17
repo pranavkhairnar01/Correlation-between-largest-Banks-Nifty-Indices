@@ -1,5 +1,5 @@
-## Correlation-between-largest-Banks-Nifty-Indices
-Correlation between largest Banks &amp; Nifty Indices by analyzing one minute candlestick using Python.
+## Correlation-between-Return-of-largest-Banks-Nifty-Indices
+Correlation between Returns of largest Banks &amp; Nifty Indices by analyzing one minute candlestick using Python.
 
 I have tried to analyze the returns given by Major Nifty Indices and Major Banks in India using Python libraries like Pandas, NumPy, Seaborn, and Matplotlib.
 I have used one-minute timeframe for
