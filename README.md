@@ -11,7 +11,11 @@ higher the correlation with the index. Data is from January 2017 to January
  
 Findings:
 Bank Nifty and Nifty Financial Services Index is Highly Correlated 0.95
+
 Strangely Nifty Financial Services and Nifty 50 have more correlation than Bank Nifty and Nifty 50.
+
 HDFC and Bank Nifty Correlation is 0.73
+
 In contrast to Nifty Indices, HDFC Bank has a low correlation with other major banks.
+
 Among the Datasets we examine, ICICI Bank and Kotak Bank have the poorest correlation.
